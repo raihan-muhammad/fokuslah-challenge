@@ -57,7 +57,7 @@ export default function QuestionDisplay({ question }: QuestionDisplayProps) {
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
               placeholder="Enter your answer here..."
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none transition-all"
+              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none transition-all text-gray-500"
             />
             <p className="mt-2 text-sm text-gray-500">
               Express your answer in the form ± a × 10ⁿ
