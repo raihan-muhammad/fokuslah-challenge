@@ -2,7 +2,7 @@
 
 **Fokuslah Frontend Challenge Solution**  
 **Developer**: Michael  
-**Date**: December 2024  
+**Date**: 12 December 2024  
 **Time to Complete**: ~2-3 hours (as requested)
 
 ---
