@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import { ChatMessage } from "@/lib/data";
 
 interface ChatBubbleProps {

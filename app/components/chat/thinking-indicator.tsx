@@ -1,7 +1,5 @@
 "use client";
 
-import React from "react";
-
 export default function ThinkingIndicator() {
   return (
     <div className="flex justify-start mb-4">
